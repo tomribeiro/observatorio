@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
+<body>
+
+<div id="file.news.div.news" n="news" rend="primary">
+
+	<p><hi rend="bold">Bem-vindo ao Repositório Observatório do Cuidado. </hi> Este repositório é um ponto de convergência da produção intelectual nacional sobre saúde mental, álcool e outras drogas bem como um espaço de parte da memória da formação do Observatório do Cuidado.</p>
+	<p>Você pode acessar os itens do nosso acervo por meio da estrutura de <hi rend="bold">Áreas Temáticas </hi> na parte inferior ou aplicando os diversos filtros do menu lateral à direita.</p>
+	
+	<p><hi rend="bold">Sinta-se à vontade para percorrer o nosso acervo como desejar e bons estudos !</hi></p>
+	
+</div>
+
+</body>
+<options/>
+<meta>
+<userMeta/>
+<pageMeta/>
+<repositoryMeta/>
+</meta>
+</document>
